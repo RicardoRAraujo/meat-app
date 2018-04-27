@@ -388,6 +388,22 @@
     },
     {
       "id": 6
+    },
+    {
+      "name": "Ricardo",
+      "email": "r@r.com",
+      "emailConfirmation": "r@r.com",
+      "address": "Rua dos Tarois",
+      "number": "123",
+      "optionalAddress": "",
+      "paymentOption": "MON",
+      "orderItems": [
+        {
+          "quantity": 4,
+          "menuId": "cup-cake"
+        }
+      ],
+      "id": 7
     }
   ]
 }
